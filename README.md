@@ -7,9 +7,11 @@ Welcome to my GitHub profile! I'm passionate about coding and building projects 
 
 - Rust 🦀
 - Python 🐍
-- HTML 🌐
+- Go
+- React
+- PHP
 
-##Featured Projects
+## Featured Projects
 1. Echo
 A fun and interactive guessing game written in Rust. Test your luck and try to guess the secret number!
 
