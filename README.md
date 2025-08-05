@@ -15,6 +15,7 @@ A fun and interactive guessing game written in Rust. Test your luck and try to g
 
 
 [View Repository](https://github.com/Maxence-villet/echo)
+
 3. Bataille Navale (Battleship)
 A Python implementation of the classic Battleship game. Sink all your opponent's ships by targeting their grid positions!
 
