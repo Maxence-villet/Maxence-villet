@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building projects 
 1. Echo
 A fun and interactive guessing game written in Rust. Test your luck and try to guess the secret number!
 
-
+![](https://github.com/Maxence-villet/echo/blob/master/teaser.gif)
 [View Repository](https://github.com/Maxence-villet/echo)
 
 3. Bataille Navale (Battleship)
