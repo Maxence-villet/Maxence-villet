@@ -1,16 +1,23 @@
-## Hi there 👋
+![](hello.gif)
+# Hi, I'm Maxence Villet Schoumaker! 👋
 
-<!--
-**Maxence-villet/Maxence-villet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and building projects with a focus on Rust, Python, and HTML. Below, you'll find a showcase of some of my favorite projects with demos or screenshots.
 
-Here are some ideas to get you started:
+## Programming Languages I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rust 🦀
+- Python 🐍
+- HTML 🌐
+
+##Featured Projects
+1. Echo
+A fun and interactive guessing game written in Rust. Test your luck and try to guess the secret number!
+
+
+[View Repository](https://github.com/Maxence-villet/echo)
+3. Bataille Navale (Battleship)
+A Python implementation of the classic Battleship game. Sink all your opponent's ships by targeting their grid positions!
+
+View Repository
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
